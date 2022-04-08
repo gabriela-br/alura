@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\Atividades\bin\Debug\Atividades.exe.config
+C:\Users\Administrador\source\repos\Atividades\bin\Debug\Atividades.exe
+C:\Users\Administrador\source\repos\Atividades\bin\Debug\Atividades.pdb
+C:\Users\Administrador\source\repos\Atividades\obj\Debug\Atividades.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Atividades\obj\Debug\Atividades.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Atividades\obj\Debug\Atividades.exe
+C:\Users\Administrador\source\repos\Atividades\obj\Debug\Atividades.pdb
