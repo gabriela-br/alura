@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\whilefor\obj\Debug\atividade2.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\whilefor\obj\Debug\atividade2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\whilefor\bin\Debug\whilefor.exe.config
+C:\Users\Administrador\source\repos\whilefor\bin\Debug\whilefor.exe
+C:\Users\Administrador\source\repos\whilefor\bin\Debug\whilefor.pdb
+C:\Users\Administrador\source\repos\whilefor\obj\Debug\whilefor.exe
+C:\Users\Administrador\source\repos\whilefor\obj\Debug\whilefor.pdb
