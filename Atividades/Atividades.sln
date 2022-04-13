@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividades", "Atividades.csproj", "{FF63DABE-865A-4BEC-BBAE-B6761B825042}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividade1", "atividade1.csproj", "{FF63DABE-865A-4BEC-BBAE-B6761B825042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividade2", "..\whilefor\atividade2.csproj", "{CADC74E8-B4BA-468F-B082-16D9A5D94F5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FF63DABE-865A-4BEC-BBAE-B6761B825042}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF63DABE-865A-4BEC-BBAE-B6761B825042}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF63DABE-865A-4BEC-BBAE-B6761B825042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADC74E8-B4BA-468F-B082-16D9A5D94F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADC74E8-B4BA-468F-B082-16D9A5D94F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADC74E8-B4BA-468F-B082-16D9A5D94F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADC74E8-B4BA-468F-B082-16D9A5D94F5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
