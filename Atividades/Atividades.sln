@@ -13,13 +13,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacoDeRepeticaoWhile", "Lac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacosAninhadosEBreak", "LacosAninhadosEBreak\LacosAninhadosEBreak.csproj", "{9FB3FB70-7E50-42B4-B899-A13DA593C551}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacoDeRepeticaoFor2", "..\LacoDeRepeticaoFor2\LacoDeRepeticaoFor2.csproj", "{42017458-26A9-4C42-B96D-18CBAD9F46CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "Fatorial\Fatorial.csproj", "{F4D9E1DD-BF47-4627-BF13-4A3315B06106}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacoDeRepeticaoFor3", "..\LacoDeRepeticaoFor3\LacoDeRepeticaoFor3.csproj", "{7788444C-5E66-471D-B57B-DEBBD3B2659E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacoDeRepeticaoFor2", "LacoDeRepeticaoFor2\LacoDeRepeticaoFor2.csproj", "{42017458-26A9-4C42-B96D-18CBAD9F46CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplosDe3", "..\MultiplosDe3\MultiplosDe3.csproj", "{0051817D-86A0-4809-9DC5-D04805F16082}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacoDeRepeticaoFor3", "LacoDeRepeticaoFor3\LacoDeRepeticaoFor3.csproj", "{7788444C-5E66-471D-B57B-DEBBD3B2659E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "..\Fatorial\Fatorial.csproj", "{F4D9E1DD-BF47-4627-BF13-4A3315B06106}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplosDe3", "MultiplosDe3\MultiplosDe3.csproj", "{0051817D-86A0-4809-9DC5-D04805F16082}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +47,10 @@ Global
 		{9FB3FB70-7E50-42B4-B899-A13DA593C551}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FB3FB70-7E50-42B4-B899-A13DA593C551}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FB3FB70-7E50-42B4-B899-A13DA593C551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4D9E1DD-BF47-4627-BF13-4A3315B06106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D9E1DD-BF47-4627-BF13-4A3315B06106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D9E1DD-BF47-4627-BF13-4A3315B06106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D9E1DD-BF47-4627-BF13-4A3315B06106}.Release|Any CPU.Build.0 = Release|Any CPU
 		{42017458-26A9-4C42-B96D-18CBAD9F46CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{42017458-26A9-4C42-B96D-18CBAD9F46CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42017458-26A9-4C42-B96D-18CBAD9F46CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -59,10 +63,6 @@ Global
 		{0051817D-86A0-4809-9DC5-D04805F16082}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0051817D-86A0-4809-9DC5-D04805F16082}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0051817D-86A0-4809-9DC5-D04805F16082}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F4D9E1DD-BF47-4627-BF13-4A3315B06106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F4D9E1DD-BF47-4627-BF13-4A3315B06106}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F4D9E1DD-BF47-4627-BF13-4A3315B06106}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F4D9E1DD-BF47-4627-BF13-4A3315B06106}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
