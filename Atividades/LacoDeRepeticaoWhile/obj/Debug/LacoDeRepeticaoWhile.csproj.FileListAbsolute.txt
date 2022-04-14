@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\LacoDeRepeticaoWhile\bin\Debug\LacoDeRepeticaoWhile.exe.config
+C:\Users\Administrador\source\repos\LacoDeRepeticaoWhile\bin\Debug\LacoDeRepeticaoWhile.exe
+C:\Users\Administrador\source\repos\LacoDeRepeticaoWhile\bin\Debug\LacoDeRepeticaoWhile.pdb
+C:\Users\Administrador\source\repos\LacoDeRepeticaoWhile\obj\Debug\LacoDeRepeticaoWhile.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\LacoDeRepeticaoWhile\obj\Debug\LacoDeRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\LacoDeRepeticaoWhile\obj\Debug\LacoDeRepeticaoWhile.exe
+C:\Users\Administrador\source\repos\LacoDeRepeticaoWhile\obj\Debug\LacoDeRepeticaoWhile.pdb

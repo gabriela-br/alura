@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\MultiplosDe3\bin\Debug\MultiplosDe3.exe.config
+C:\Users\Administrador\source\repos\MultiplosDe3\bin\Debug\MultiplosDe3.exe
+C:\Users\Administrador\source\repos\MultiplosDe3\bin\Debug\MultiplosDe3.pdb
+C:\Users\Administrador\source\repos\MultiplosDe3\obj\Debug\MultiplosDe3.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\MultiplosDe3\obj\Debug\MultiplosDe3.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\MultiplosDe3\obj\Debug\MultiplosDe3.exe
+C:\Users\Administrador\source\repos\MultiplosDe3\obj\Debug\MultiplosDe3.pdb

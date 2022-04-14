@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\LacosAninhadosEBreak\bin\Debug\LacosAninhadosEBreak.exe.config
+C:\Users\Administrador\source\repos\LacosAninhadosEBreak\bin\Debug\LacosAninhadosEBreak.exe
+C:\Users\Administrador\source\repos\LacosAninhadosEBreak\bin\Debug\LacosAninhadosEBreak.pdb
+C:\Users\Administrador\source\repos\LacosAninhadosEBreak\obj\Debug\LacosAninhadosEBreak.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\LacosAninhadosEBreak\obj\Debug\LacosAninhadosEBreak.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\LacosAninhadosEBreak\obj\Debug\LacosAninhadosEBreak.exe
+C:\Users\Administrador\source\repos\LacosAninhadosEBreak\obj\Debug\LacosAninhadosEBreak.pdb
